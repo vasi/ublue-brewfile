@@ -7,3 +7,4 @@ tap "homebrew/command-not-found"
 
 brew "ncdu"
 brew "devcontainer"
+brew "ruby"
